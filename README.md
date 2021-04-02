@@ -8,7 +8,7 @@ Learning path for flutter.
 
 ## Requirement
 
-* Basics of the oops concept is needed.
+* Basics of the oops concept is needed. [Learn more on Dart](https://github.com/evolvingkid/flutter-learning-path/tree/main/OOPS)
 * Previous knowledge in any programing language like C++, JAVA, JS is good
 * Laptop with i3 or higher is needed. i5 or Rayzen 5 is recommended.
 
