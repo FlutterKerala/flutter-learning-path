@@ -8,3 +8,6 @@ In data you can pass data two ways.
 * [way one](https://github.com/evolvingkid/flutter-learning-path/blob/main/OOPS/way_one.dart)
 
 * [way two]()
+
+In Flutter we have @required which will show warning if data is not passed. We can make it show error if data is not passed by added this file to root of your flutter project.
+You can tweak dart behaviours like this too. [file]()
