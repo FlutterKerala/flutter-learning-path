@@ -2,10 +2,6 @@
 
 Learning path for flutter.
 
-## Flutter Books
-
-[Flutter book Link](https://github.com/evolvingkid/flutter-learning-path/tree/main/books)
-
 ## Requirement
 
 * Basics of the oops concept is needed. [Learn more on Dart](https://github.com/evolvingkid/flutter-learning-path/tree/main/OOPS)
