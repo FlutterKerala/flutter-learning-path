@@ -4,6 +4,8 @@ Learning path for flutter.
 
 ## Flutter Books
 
+[Flutter book Link](https://github.com/evolvingkid/flutter-learning-path/tree/main/books)
+
 ## Requirement
 
 * Basics of the oops concept is needed.
@@ -34,3 +36,4 @@ directory.). [Android Studio Link](https://developer.android.com/studio)
 * Try to do a project using state managment and follow a structure like MVC.
 * Learn about dependency Injection like [Get It](https://pub.dev/packages/get_it).
 * Try to learn about database in flutter like [sqflite](https://pub.dev/packages/sqflite), [Shared preferences](https://pub.dev/packages/shared_preferences), [Hive](https://pub.dev/packages/hive). (If you are learning Hive its better to follow youtube videos. Try to learn adapter in Hive).
+* Try to implement JAVA or Swift code in to flutter using method channel.
