@@ -1,4 +1,5 @@
 # How to learn Flutter?
+
 Learning path for flutter.
 
 ## Flutter Books
@@ -20,9 +21,11 @@ directory.). [Android Studio Link](https://developer.android.com/studio)
 * Setup emulator or real mobile devices for app testing in flutter. (enable USB-Debugging for mobile devices testing).
 
 ## Setup Flutter
+
 * In case if you are running flutter for 1st time it can be time-consuming. This is because Gradle needed to set up and android SDK needed to be setup. In any case if android SDK is not able to download and causes error then you can manually download it using android SDK manager.
 
-## Next step 
+## Next step
+
 * Build a small flutter project like quiz app. Like [Youtube Link](https://youtu.be/x0uinJvhNxI). Try to learn about Stateless & stateful widgets.
 * Need to know more about List and Map data type in dart.
 * Try to learn HTTp calls. Use package like [HTTP](https://pub.dev/packages/http) or [DIO](https://pub.dev/packages/dio). Its better to learn with HTTP then lern Dio. In production apps or big project is better to use Dio.
@@ -31,4 +34,3 @@ directory.). [Android Studio Link](https://developer.android.com/studio)
 * Try to do a project using state managment and follow a structure like MVC.
 * Learn about dependency Injection like [Get It](https://pub.dev/packages/get_it).
 * Try to learn about database in flutter like [sqflite](https://pub.dev/packages/sqflite), [Shared preferences](https://pub.dev/packages/shared_preferences), [Hive](https://pub.dev/packages/hive). (If you are learning Hive its better to follow youtube videos. Try to learn adapter in Hive).
-
