@@ -16,7 +16,8 @@ directory.). [Android Studio Link](https://developer.android.com/studio)
 * Install Vscode (Recommeded) [Vscode Link](https://code.visualstudio.com/download)
 * Setup Flutter SDK [Flutter Link](https://flutter.dev/docs/get-started/install)
 * This is not recommeded for new peoples but if you are following old project in flutter use FVM to manage flutter version. [FVM Link](https://pub.dev/packages/fvm)
-* Setup emulator or real mobile devices for app testing in flutter. (enable USB-Debugging for mobile devices testing).
+* Setup emulator or real mobile devices for app testing in flutter. (enable USB-Debugging for mobile devices testing).\
+* If you are using m1 mac with android studio artic fox then their will an issues called java bundle not found. If you ever occur that issue then flow. [Stackoverflow link issues](https://stackoverflow.com/questions/51281702/unable-to-find-bundled-java-version-on-flutter)
 
 ## Setup Flutter
 
